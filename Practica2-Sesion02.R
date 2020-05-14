@@ -1,6 +1,6 @@
 
 # Establecemos el workspace
-setwd("D:/jotap/Google Drive/jpramez/UAL/ESTADISTICA/Practica02/Practica02")
+setwd("D:/jjrm1996/Google Drive/jjrm1996/UAL/ESTADISTICA/Practica02/Practica02")
 
 # Importamos los datos del csv a la variable datos, indicando que
 # tiene una cabecera y están separados por ";"
